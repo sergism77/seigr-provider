@@ -3,14 +3,11 @@
     "express": "^4.18.2"
   },
   "devDependencies": {
-    "@ethersproject/providers": "^5.7.2"
-  },
+    "@ethersproject/providers": "^5.7.2"  },
   "scripts": {
-    "build": "npm run build"
-
-  },
+    "start": "node seigr-provider.js"  },
   "name": "seigr-provider",
   "version": "1.0.0",
   "description": "A provider for the Seigr network",
-  "main": "dist/seigr-provider.js"
+  "main": "seigr-provider.js"
 }
