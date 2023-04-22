@@ -15,4 +15,3 @@ app.get("/seigr", async (req, res) => {
     const blockNumber = await seigrProvider.getBlockNumber();
     res.json({ blockNumber });
 });
-
