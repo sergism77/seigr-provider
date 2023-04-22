@@ -4,5 +4,10 @@
   },
   "devDependencies": {
     "@ethersproject/providers": "^5.7.2"
-  }
+  },
+  "scripts": {
+    "start": "node index.js",
+    "build": "npm run build:js"
+
+  },
 }

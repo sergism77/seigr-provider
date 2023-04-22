@@ -1,0 +1,10 @@
+name = "seigr-provider"
+
+id = "3245a2f4-422e-437a-9ab7-373a45bb3d9b"
+
+[vars]
+FOO = "bar"
+
+[build]
+command = "npm run build"
+

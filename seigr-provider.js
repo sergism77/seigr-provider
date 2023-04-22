@@ -16,4 +16,3 @@ app.get("/seigr", async (req, res) => {
     res.json({ blockNumber });
 });
 
-
