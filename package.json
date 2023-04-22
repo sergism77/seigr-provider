@@ -6,8 +6,11 @@
     "@ethersproject/providers": "^5.7.2"
   },
   "scripts": {
-    "start": "node index.js",
-    "build": "npm run build:js"
+    "build": "npm run build"
 
   },
+  "name": "seigr-provider",
+  "version": "1.0.0",
+  "description": "A provider for the Seigr network",
+  "main": "dist/seigr-provider.js"
 }
