@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "express": "^4.18.2"
+  },
+  "devDependencies": {
+    "@ethersproject/providers": "^5.7.2"
+  }
+}
